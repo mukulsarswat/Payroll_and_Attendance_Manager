@@ -1,8 +1,4 @@
-Absolutely, Mukul! Based on your repository [Payroll_and_Attendance_Manager](https://github.com/mukulsarswat/Payroll_and_Attendance_Manager/tree/main) and the structure you've shared, here’s a polished, recruiter-friendly `README.md` tailored for clarity, professionalism, and educational value:
 
----
-
-```markdown
 # 🧾 Payroll and Attendance Manager — RESTful API with Node.js & MySQL
 
 A secure and scalable RESTful API built with **Node.js**, **Express.js**, and **MySQL**, designed to manage employee payroll and attendance records. This project includes JWT-based authentication, modular route handling, and API testing via VSCode’s REST Client.
