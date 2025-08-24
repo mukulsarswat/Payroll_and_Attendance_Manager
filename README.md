@@ -113,9 +113,3 @@ This project is licensed under the [MIT License](LICENSE).
 **Mukul Sarswat**  
 Focused on backend architecture, modular design, and clean documentation.  
 Explore more projects at [GitHub Profile](https://github.com/mukulsarswat)
-
-```
-
----
-
-Let me know if you'd like to add diagrams, Swagger documentation, or a deployment guide for platforms like Render or Railway. I can also help you write a crisp project summary for your resume or portfolio.
